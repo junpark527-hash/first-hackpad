@@ -12,11 +12,11 @@ Just started.
 
 ## Folder structure
 
-- `pcb/` — KiCad project files, schematics, gerbers, BOM
-- `cad/` — Case/enclosure design exports (STEP, STL, F3D)
-- `firmware/` — Microcontroller code
+- `pcb/` — KiCad files
+- `cad/` — Case design files
+- `firmware/` — Code for the board
 - `assets/` — Photos, renders, wiring diagrams
-- `production/` — Files related to fabrication/assembly
+- `production/` — Stuff for building the thing and ordering parts.
 
 ## Build log
 
