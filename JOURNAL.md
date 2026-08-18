@@ -23,4 +23,6 @@ As you can see, I wanted to create a theme for this numberpad so it wouldn't be 
 
 After this, I plan on researching how to use KiCad and figuring out the rough dimensions for my build. I think these upcoming parts will be the most difficult so I am planning on devoting a lot of hours for this next bit. 
 
+Edit: Oops, after looking at my planning again, I realized that I did not have anywhere to connect the numpad to my laptop, so I added a USB cutout on the topside of the build.
+
 **Total time spent: 1h**
