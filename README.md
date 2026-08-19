@@ -4,7 +4,7 @@ A custom numpad style macropad, built for the NASA x Hack Club Stardance Challen
 
 ## About
 
-This is my first hardware project. I plan it to be a fully custom mechanical keypad designed and built from scratch, styled like a numpad. It's both a Stardance hardware submission and a personal build I'm using to learn PCB design and firmware.
+This is my first hardware project. I plan it to be a fully custom mechanical keypad designed and built from scratch, styled like a numpad. It will be a Stardance hardware submission and a personal build I'm using to learn PCB design and firmware.
 
 ## Status
 
