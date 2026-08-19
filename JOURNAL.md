@@ -36,3 +36,11 @@ I started researching how pins, wires, and microcontrollers work on these keyboa
 This is the template the Hackclub website has, but because of my matrix wiring, I think I will have to spend a bit more time in KiCad trying to learn how to use the software itself and figuring out a plan for my 22 switches.
 
 **Total time spent: 3h**
+
+# August 18th: Planning out my KiCad wiring
+
+I laid out a rough sketch of how the matrices would work to figure out how many pins I would need to see if it fit on the microcontroller. Luckily, I have exactly 1 pin remaining and was able to fit everything else. Right now I am planning on something like this for the wiring. 
+
+<img width="1308" height="1477" alt="image" src="https://github.com/user-attachments/assets/9b15d611-9834-4772-8f1b-52b56c6d84e1" />
+
+**Total time spent 30 minutes**
