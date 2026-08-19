@@ -44,3 +44,11 @@ I laid out a rough sketch of how the matrices would work to figure out how many 
 <img width="1308" height="1477" alt="image" src="https://github.com/user-attachments/assets/9b15d611-9834-4772-8f1b-52b56c6d84e1" />
 
 **Total time spent 30 minutes**
+
+# August 18th: Building my KiCad wiring!
+
+I went straight to work with KiCad and it took me a long time to get used to the controls and layout. I fidgeted a lot with the switches and diode placements and even found online that if you make labels with identical names, you don't have to do all the fussy wiring. I still have some worries that the labels might not work, but I don't know how to check it. This is what it looks like as of right now. 
+
+<img width="1088" height="1345" alt="image" src="https://github.com/user-attachments/assets/8b440e94-3333-4a60-8dec-14da0bbbb23a" />
+
+**Total time spent: 1 hour**
