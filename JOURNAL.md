@@ -26,3 +26,13 @@ After this, I plan on researching how to use KiCad and figuring out the rough di
 Edit: Oops, after looking at my planning again, I realized that I did not have anywhere to connect the numpad to my laptop, so I added a USB cutout on the topside of the build.
 
 **Total time spent: 1h**
+
+# August 18th: Researching how the wiring and pins work
+
+I started researching how pins, wires, and microcontrollers work on these keyboards. Through my research, I was able to find out that using a matrix wiring system for something like my build is much more efficient and cost efficient. This made me do even more research, and I genuinely sat there for an hour trying to understand these switches, rows, columns, and ghosting. After lots of discussions with AI and many articles, I think I grasp the content much better than a couple of hours ago. I am scared that this matrix wiring will make things much more difficult once I get to KiCad, but I guess i have to figure that out too. During this process, I learned the importance of diodes and how they prevent ghosting when 3 or more keys are pressed at the same time. I am much more confident now as I start learning KiCad because everything in the guide beforehand looked like absolute jibberish to me. 
+
+<img width="1101" height="653" alt="image" src="https://github.com/user-attachments/assets/e7657fe1-e7ea-459c-9dbf-4755b5699942" />
+
+This is the template the Hackclub website has, but because of my matrix wiring, I think I will have to spend a bit more time in KiCad trying to learn how to use the software itself and figuring out a plan for my 22 switches.
+
+**Total time spent: 3h**
