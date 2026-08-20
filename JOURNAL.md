@@ -52,3 +52,20 @@ I went straight to work with KiCad and it took me a long time to get used to the
 <img width="1088" height="1345" alt="image" src="https://github.com/user-attachments/assets/8b440e94-3333-4a60-8dec-14da0bbbb23a" />
 
 **Total time spent: 1 hour**
+
+# August 19th: Building my pcb in KiCad!
+
+Started building my pcb today and oh man, I was hit with complications. I completely missed the part on the guide that said it had to be within 100x100mm so I ended up having to remove my 4 macro keys that were supposed to be separated at the top. Now, I am at a 16 switch numpad which is kinda basic and generic. I guess I will have to spice it up with some custom keycaps later down the road. The wiring took a ton of work as I kept blocking myself off on other paths. But in the end, I pushed through and was able to finish it. I also decided to add some mounting holes on it as well so it would be easier to put inside the case I will build this week. Here is what it looks like right now: 
+
+<img width="1334" height="1253" alt="image" src="https://github.com/user-attachments/assets/69800ada-626f-49ff-a3a3-e35eb2ba1b58" />
+
+**Total time spent: around 3 hours**
+
+# August 20th: Rewiring
+
+Omg, while writing my journal for the wiring I did for the pcb, I realized that I had to place the XIAO's usb on the edge of the border so I could make a hole for it when I make the case. I had to rearrange the format of the mounting holes and rewire all the columns and rows, which was a huge pain. This is what it looks like now 
+
+<img width="895" height="829" alt="image" src="https://github.com/user-attachments/assets/a6dcfe36-6b5f-4227-bcfb-8c5132eaf3af" />
+
+**Total time spent: 30 minutes**
+
