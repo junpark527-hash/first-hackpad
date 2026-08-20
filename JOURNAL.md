@@ -69,3 +69,12 @@ Omg, while writing my journal for the wiring I did for the pcb, I realized that 
 
 **Total time spent: 30 minutes**
 
+# August 20th: Making a whole new gameplan
+
+Oh my. After some heavy contemplating with my current format of the pcb and key placements, I decided to totally switch my Hackpad design and build an 8 key hackpad, with a rotary encoder, OLED screen, and RGB LEDS. I had just finished making the entire schematic in this format after 3 hours, but KiCad suddenly crashed, and I no longer have the schematic. I just decided to scrap the old one and start fresh, because all my progress had already been deleted. I wasted so much time and lost so much work! I did all this before it crashed :(.
+
+<img width="2075" height="940" alt="image" src="https://github.com/user-attachments/assets/de919dd4-ea1b-4207-b253-e4366bdda78e" />
+<img width="1590" height="613" alt="image" src="https://github.com/user-attachments/assets/31930543-5da3-429d-8c95-dbb3595d2cce" />
+<img width="2268" height="1146" alt="image" src="https://github.com/user-attachments/assets/c96df030-485d-4bc4-ba8c-1e11ebd1e279" />
+
+**Total time spent: 3 hours**
