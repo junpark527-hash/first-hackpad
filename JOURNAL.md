@@ -78,3 +78,13 @@ Oh my. After some heavy contemplating with my current format of the pcb and key 
 <img width="2268" height="1146" alt="image" src="https://github.com/user-attachments/assets/c96df030-485d-4bc4-ba8c-1e11ebd1e279" />
 
 **Total time spent: 3 hours**
+
+# August 21st: Making the PCB!
+
+It took such a long time but after long hours of rewiring and moving around pcb parts, I was able to finish the pcb for my new design! This is what it looks like now. 
+
+<img width="1509" height="1175" alt="image" src="https://github.com/user-attachments/assets/a0107bee-aaef-44e9-ad61-fa4738ccd046" />
+
+**Total time spent: around 4 hours**
+
+
