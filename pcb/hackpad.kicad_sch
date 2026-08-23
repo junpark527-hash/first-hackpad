@@ -3073,7 +3073,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector:FanPinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "OLED:SSD1306-0.91-OLED-4pin-128x32"
 			(at 167.64 36.83 0)
 			(hide yes)
 			(show_name no)
