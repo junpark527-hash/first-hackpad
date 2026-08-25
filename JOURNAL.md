@@ -87,4 +87,5 @@ It took such a long time but after long hours of rewiring and moving around pcb 
 
 **Total time spent: around 4 hours**
 
-
+# August 21-24: General Updates
+I have been working for the past couple of days, but starting using Lapse, so I did not post updates here as the hours are logged there. That being said, I was finally able to finish building my case after so much time! It took me a very long time, but I learned so many new things, and it was kinda fun. I am so excited to build the actual project!
