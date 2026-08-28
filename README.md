@@ -48,5 +48,6 @@ This is everything that should be needed to make this hackpad:
 * 1x EC11 Rotary Encoder
 * 1x XIAO RP2040
 * 1x Case (3 printed parts)
+* I will also be needing a soldering iron!
 
 See [JOURNAL.md](JOURNAL.md) for progress notes.
