@@ -89,3 +89,10 @@ It took such a long time but after long hours of rewiring and moving around pcb 
 
 # August 21-24: General Updates
 I have been working for the past couple of days, but starting using Lapse, so I did not post updates here as the hours are logged there. That being said, I was finally able to finish building my case after so much time! It took me a very long time, but I learned so many new things, and it was kinda fun. I am so excited to build the actual project!
+
+# August 28: Firmware!
+I just completed my firmware and am now going to start organizing my folders and double-checking everything to send for funding. I did a bunch of research before mapping the keys, as it is my first time using this firmware and coding in general. I was surprised to find out that the QMK firmware is pretty well optimized and that it has most of the functions that I needed without me having to put in additional code. I also used hackatime but for some reason it didnt link to my project so this is my proof. 
+
+<img width="2370" height="1002" alt="image" src="https://github.com/user-attachments/assets/4a693cfd-9993-4fe5-a6b6-b52124cf536d" />
+
+**Total time spent: 1 hour**
