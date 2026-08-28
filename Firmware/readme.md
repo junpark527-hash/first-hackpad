@@ -1,4 +1,4 @@
-# hackpad27
+# hackpadv1
 
 
 *This is a cool 2x4 hackpad I made for myself. It includes an OLED panel and a rotary encoder!*
